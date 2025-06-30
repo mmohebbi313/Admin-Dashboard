@@ -25,4 +25,4 @@ To run this project on your local machine:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/USERNAME/Admin-Dashboard.git
+git clone https://github.com/mmohebbi313/Admin-Dashboard.git
