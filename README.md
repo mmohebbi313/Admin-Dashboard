@@ -1,5 +1,8 @@
 # 🛠️ Admin Dashboard
 
+# Click on the link below to see the preview.
+Link : https://admin-dashboard-sable-seven-89.vercel.app/
+
 A feature-rich admin dashboard built with **React** and a custom **Node.js + MySQL backend**. This project allows administrators to manage products and user comments with ease.
 
 ---
